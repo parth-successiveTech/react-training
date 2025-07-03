@@ -7,7 +7,7 @@ export default function DashBoard(){
         <h2>This is Assignment-1 and Assignment-2</h2>
         <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-1');}}>Assignment1</button>
         <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-2');}}>Assignment2</button>
-        <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-3');}}>Assignment3</button>
+        <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-5');}}>Assignment5</button>
 
         </div>
     );
