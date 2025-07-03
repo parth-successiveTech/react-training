@@ -8,6 +8,8 @@ export default function DashBoard(){
         <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-1');}}>Assignment1</button>
         <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-2');}}>Assignment2</button>
         <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-5');}}>Assignment5</button>
+        <button style={{backgroundColor:"grey"}} onClick={()=>{router.push('/assignment-6');}}>Assignment6</button>
+
 
         </div>
     );
